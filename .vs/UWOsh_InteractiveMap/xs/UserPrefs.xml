@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{D6ED57C4-B5A6-4F52-8C34-9B463C4DE1C3}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.ItemProperties.UWOsh__InteractiveMap PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UWOsh_InteractiveMap" expanded="True">
+            <Node name="UWOsh_InteractiveMap" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="net6.0-android" expanded="True" selected="True" />
+              </Node>
+              <Node name="Platforms" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
