@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace DummyProject;
+namespace UWOsh_InteractiveMap;
 
 [Register("AppDelegate")]
 public class AppDelegate : MauiUIApplicationDelegate
