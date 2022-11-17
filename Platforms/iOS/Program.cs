@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace DummyProject;
+namespace UWOsh_InteractiveMap;
 
 public class Program
 {
